@@ -36,6 +36,10 @@ body {
     border: 1px solid var(--boton-rojo);
     border-radius: 5px;
 }
+.boton:hover{
+    transition: 0.3s;
+    transform: scale(0.99);
+}
 @media screen and (min-width: 1024px) {
     .container {
         padding-left: calc((100% - 940px)/2);
