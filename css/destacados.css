@@ -33,4 +33,5 @@
     color: var(--boton-rojo);
     border-color: var(--boton-rojo);
     margin: 0 auto;
+    font-weight: 700
 }
